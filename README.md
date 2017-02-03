@@ -1,5 +1,5 @@
 http://ffig.org/
 
-FFIG generates high-level language wrappers for C++ classes and functions
+FFIG generates high-level language wrappers for C++ classes and functions.
 
-Insert your header file and choose which bindings you want to generate
+A CMake module allows generation of a C-API header, shared library and language bindings from a header file.
