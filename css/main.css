@@ -1,0 +1,41 @@
+body {
+    background-color: #e7e7e7;
+}
+
+header img {
+    vertical-align: middle;
+}
+
+header a {
+    text-decoration: none;
+    color: #369812;
+    font-size: 1.5em;
+}
+
+main {
+    margin-left: 256px;
+    margin-right: 256px;
+    color: #732671;
+}
+
+main hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #732671;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+main a {
+    color: #369812;
+    text-decoration: none;
+}
+
+main li {
+    list-style-type: circle;
+}
